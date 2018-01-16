@@ -7,7 +7,7 @@ package calculadoraig;
 
 /**
  *
- * @author alumno
+ * @author Francisco Montesinos Garcia
  */
 public class calculadora extends javax.swing.JFrame {
     
